@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @joljask
 - 👀 I’m interested in developing.
 - 🌱 I’m currently learning Android.
-- 📫 You can  reach me with the help of email jollyrklrgp@gmail.com 
+- 📫
 <!--- - 💞️ I’m looking to collaborate on ... --->
 
 
