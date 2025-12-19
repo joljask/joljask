@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @joljask
-- 👀 I’m interested in developing.
-- 🌱 I’m currently learning Android.
+
 
 <!--- - 💞️ I’m looking to collaborate on ... --->
 
